@@ -1,0 +1,1 @@
+give @s minecraft:diamond_chestplate{display:{Name:'{"text":"Obsidian Chestplate","color":"white","italic":false}'},CustomModelData:1,Enchantments:[{id:"minecraft:protection",lvl:1s},{id:"minecraft:fire_protection",lvl:1s},{id:"minecraft:unbreaking",lvl:5s}]} 1

@@ -1,0 +1,1 @@
+give @p diamond_boots{display:{Name:'{"text":"Ruby Boots","color":"white","italic":false}'},CustomModelData:3,Enchantments:[{id:"minecraft:protection",lvl:3s},{id:"minecraft:unbreaking",lvl:3s}]} 1

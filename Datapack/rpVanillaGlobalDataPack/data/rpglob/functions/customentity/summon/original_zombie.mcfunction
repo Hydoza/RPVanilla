@@ -1,0 +1,1 @@
+summon zombie ~ ~ ~ {Team:"NoNameTag",DeathLootTable:"rpglob:original_zombie",Health:50f,CustomName:'{"text":"Original Zombie"}',Attributes:[{Name:generic.max_health,Base:50},{Name:generic.movement_speed,Base:0.27},{Name:generic.attack_damage,Base:16}]}

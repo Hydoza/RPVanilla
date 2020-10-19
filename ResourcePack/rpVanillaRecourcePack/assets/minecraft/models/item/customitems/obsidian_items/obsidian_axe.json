@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:customitems/obsidian_items/obsidian_axe"
+  }
+}

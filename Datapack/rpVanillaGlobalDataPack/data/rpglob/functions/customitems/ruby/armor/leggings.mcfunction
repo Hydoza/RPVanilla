@@ -1,0 +1,1 @@
+give @p diamond_leggings{display:{Name:'{"text":"Ruby Leggings","color":"white","italic":false}'},CustomModelData:3,Enchantments:[{id:"minecraft:protection",lvl:3s},{id:"minecraft:unbreaking",lvl:3s}]} 1

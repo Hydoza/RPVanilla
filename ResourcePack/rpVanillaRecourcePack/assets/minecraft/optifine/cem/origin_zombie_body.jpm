@@ -1,0 +1,16 @@
+{
+	"texture": "textures/entity/zombie/origin_zombie",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-12, -24, 6, 8, 12, 4],
+			"uvNorth": [12, 22, 4, 34],
+			"uvEast": [16, 22, 12, 34],
+			"uvSouth": [24, 22, 16, 34],
+			"uvWest": [4, 22, 0, 34],
+			"uvUp": [4, 22, 12, 18],
+			"uvDown": [12, 18, 20, 22]
+		}
+	]
+}

@@ -1,0 +1,1 @@
+give @p diamond_chestplate{display:{Name:'{"text":"Ruby Chestplate","color":"white","italic":false}'},CustomModelData:3,Enchantments:[{id:"minecraft:protection",lvl:3s},{id:"minecraft:unbreaking",lvl:3s}]} 1

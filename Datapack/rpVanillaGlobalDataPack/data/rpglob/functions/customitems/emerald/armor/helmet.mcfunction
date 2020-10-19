@@ -1,0 +1,1 @@
+give @p minecraft:diamond_helmet{display:{Name:'{"text":"Emerald Helmet","color":"white","italic":false}'},CustomModelData:2,Enchantments:[{id:"minecraft:protection",lvl:2s},{id:"minecraft:unbreaking",lvl:2s}]} 1

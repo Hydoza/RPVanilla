@@ -1,0 +1,1 @@
+give @s minecraft:diamond_helmet{display:{Name:'{"text":"Obsidian Helmet","color":"white","italic":false}'},CustomModelData:1,Enchantments:[{id:"minecraft:protection",lvl:1s},{id:"minecraft:fire_protection",lvl:1s},{id:"minecraft:unbreaking",lvl:5s}]} 1

@@ -1,0 +1,1 @@
+summon zombie ~ ~ ~ {Team:"NoNameTag",DeathLootTable:"rpglob:frozen_zombie",Health:60f,CustomName:'{"text":"Frozen Zombie"}',Attributes:[{Name:generic.max_health,Base:60},{Name:generic.movement_speed,Base:0.15},{Name:generic.attack_damage,Base:16}]}

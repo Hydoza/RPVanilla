@@ -1,0 +1,11 @@
+{
+    "values" :[
+        "minecraft:air",
+        "minecraft:cave_air",
+        "minecraft:water",
+        "minecraft:lava",
+        "minecraft:grass",
+        "minecraft:grass_block",
+        "minecraft:dirt"
+    ]
+}
