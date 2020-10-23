@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:customitems/mixite_items/mixite_leggings"
+  }
+}
