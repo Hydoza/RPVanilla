@@ -1,1 +1,1 @@
-give @p diamond_boots{display:{Name:'{"text":"Mixite Boots","color":"white","italic":false}'},CustomModelData:4,Enchantments:[{id:"minecraft:protection",lvl:5s},{id:"minecraft:unbreaking",lvl:5s},{id:"minecraft:feather_falling",lvl:4s}]} 1
+give @p diamond_boots{display:{Name:'{"text":"Mixite Boots","color":"white","italic":false}'},Unbreakable:1b,CustomModelData:4,Enchantments:[{id:"minecraft:protection",lvl:5s},{id:"minecraft:feather_falling",lvl:4s}]} 1

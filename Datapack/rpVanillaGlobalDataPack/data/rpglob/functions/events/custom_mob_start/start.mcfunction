@@ -13,3 +13,4 @@ fill -131 69 299 -131 70 297 minecraft:black_concrete
 # Buits et effets sonore pendant 10 secondes (pour simuler que c en train de ce passer alors que les modiifications sont déjà apliqué)
 scoreboard objectives add event1 dummy
 function rpglob:events/custom_mob_start/fake_sounds
+function rpglob:events/custom_mob_start/loop_during

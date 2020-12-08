@@ -7,5 +7,5 @@ execute as @e[name=fake_sound1] at @s if score fake_sounds_count event1 matches 
 kill @e[name=fake_sound1]
 scoreboard players add fake_sounds_count event1 1
 
-execute unless score fake_sounds_count event1 matches 20 run schedule function rpglob:events/custom_mob_start/fake_sounds 1s
-execute if score fake_sounds_count event1 matches 20 run function rpglob:events/custom_mob_start/end
+execute unless score fake_sounds_count event1 matches 20.. run schedule function rpglob:events/custom_mob_start/fake_sounds 1s
+execute if score fake_sounds_count event1 matches 20.. run function rpglob:events/custom_mob_start/end

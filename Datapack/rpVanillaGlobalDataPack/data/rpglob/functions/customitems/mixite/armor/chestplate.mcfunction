@@ -1,1 +1,1 @@
-give @p diamond_chestplate{display:{Name:'{"text":"Mixite Chestplate","color":"white","italic":false}'},CustomModelData:4,Enchantments:[{id:"minecraft:protection",lvl:5s},{id:"minecraft:unbreaking",lvl:5s}]} 1
+give @p diamond_chestplate{display:{Name:'{"text":"Mixite Chestplate","color":"white","italic":false}'},Unbreakable:1b,CustomModelData:4,Enchantments:[{id:"minecraft:protection",lvl:5s}]} 1
