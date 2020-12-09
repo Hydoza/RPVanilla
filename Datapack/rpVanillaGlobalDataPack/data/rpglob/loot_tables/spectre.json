@@ -9,27 +9,7 @@
                 {
                     "type": "item",
                     "weight": 1,
-                    "name":"minecraft:glistering_melon_slice",
-                    "quality": 1,
-                    "conditions": [
-                        {
-                            "condition": "random_chance",
-                            "chance": 0.03
-                        }
-                    ],
-                    "functions":[
-                        {"function":"set_count","count":1},
-                        {"function":"set_nbt","tag":"{CustomModelData:2}"},
-                        {"function":"set_name","name":[
-                            {"text":"Originium","italic":false}
-                        ]}
-                    ]
-                },
-
-                {
-                    "type": "item",
-                    "weight": 1,
-                    "name": "minecraft:rotten_flesh",
+                    "name": "minecraft:black_dye",
                     "quality": 1,
                     "functions": [
                         {
@@ -39,6 +19,25 @@
                                 "max": 2
                             }
                         }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name":"minecraft:glistering_melon_slice",
+                    "quality": 1,
+                    "conditions": [
+                        {
+                            "condition": "random_chance",
+                            "chance": 0.02
+                        }
+                    ],
+                    "functions":[
+                        {"function":"set_count","count":1},
+                        {"function":"set_nbt","tag":"{CustomModelData:2}"},
+                        {"function":"set_name","name":[
+                            {"text":"Originium","italic":false}
+                        ]}
                     ]
                 }
             ]

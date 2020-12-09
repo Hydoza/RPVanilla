@@ -1,1 +1,1 @@
-summon zombie ~ ~ ~ {Silent:1b,Team:"NoNameTag",DeathLootTable:"rpglob:original_zombie",Health:120f,CustomName:'{"text":"Spectre"}',Attributes:[{Name:generic.max_health,Base:120},{Name:generic.movement_speed,Base:0.32},{Name:generic.attack_damage,Base:35}]}
+summon zombie ~ ~ ~ {Silent:1b,Team:"NoNameTag",DeathLootTable:"rpglob:spectre",Health:120f,CustomName:'{"text":"Spectre"}',Attributes:[{Name:generic.max_health,Base:120},{Name:generic.movement_speed,Base:0.32},{Name:generic.attack_damage,Base:35}]}

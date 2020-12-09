@@ -9,12 +9,36 @@
                 {
                     "type": "item",
                     "weight": 1,
-                    "name": "minecraft:ice",
+                    "name": "minecraft:cobweb",
                     "quality": 1,
                     "conditions": [
                         {
                             "condition": "random_chance",
-                            "chance": 0.025
+                            "chance": 0.1
+                        }
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:fermented_spider_eye",
+                    "quality": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 3
+                            }
                         }
                     ]
                 },
@@ -26,7 +50,7 @@
                     "conditions": [
                         {
                             "condition": "random_chance",
-                            "chance": 0.015
+                            "chance": 0.02
                         }
                     ],
                     "functions":[
@@ -35,21 +59,6 @@
                         {"function":"set_name","name":[
                             {"text":"Originium","italic":false}
                         ]}
-                    ]
-                },
-                {
-                    "type": "item",
-                    "weight": 1,
-                    "name": "minecraft:rotten_flesh",
-                    "quality": 1,
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 0,
-                                "max": 2
-                            }
-                        }
                     ]
                 }
             ]

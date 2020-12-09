@@ -1,0 +1,1 @@
+give @p glistering_melon_slice{display:{Name:'{"text":"Originium","italic":false}'},CustomModelData:2} 1
