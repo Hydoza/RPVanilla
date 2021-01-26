@@ -1,0 +1,13 @@
+{
+    "models":
+    [
+        {
+            "id": "mandibular_eye",
+            "model": "mandibular_eye.jpm",
+            "part": "head",
+            "attach": true,
+            "translate": [8, 10, -5.2],
+            "rotate": [0, 0, 0]
+        }
+    ]
+}

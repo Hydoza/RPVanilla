@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+
+	"overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "minecraft:item/customblocks/laptop" },
+    { "predicate": { "custom_model_data": 2}, "model": "minecraft:item/customblocks/rubyblock" },
+    { "predicate": { "custom_model_data": 3}, "model": "minecraft:item/customblocks/chair" },
+    { "predicate": { "custom_model_data": 4}, "model": "minecraft:item/customblocks/caise" },
+    { "predicate": { "custom_model_data": 5}, "model": "minecraft:item/customblocks/table1" },
+    { "predicate": { "custom_model_data": 6}, "model": "minecraft:item/customblocks/tv" },
+    { "predicate": { "custom_model_data": 7}, "model": "minecraft:item/customblocks/shelf" },
+    { "predicate": { "custom_model_data": 8}, "model": "minecraft:item/customblocks/ruby_ore" },
+    { "predicate": { "custom_model_data": 9}, "model": "minecraft:item/customblocks/sirene" }
+	]
+}

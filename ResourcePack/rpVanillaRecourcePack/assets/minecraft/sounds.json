@@ -1,0 +1,28 @@
+{
+    "custommobs.spectre.idle": {
+        "sounds": [
+            "custom/spectre/idle/idle1",
+            "custom/spectre/idle/idle2",
+            "custom/spectre/idle/idle3",
+            "custom/spectre/idle/idle4"
+        ]
+    },
+
+    "custommobs.spectre.hurt": {
+        "sounds": [
+            "custom/spectre/hurt/hurt1",
+            "custom/spectre/hurt/hurt2",
+            "custom/spectre/hurt/hurt3",
+            "custom/spectre/hurt/hurt4",
+            "custom/spectre/hurt/hurt5",
+            "custom/spectre/hurt/hurt6",
+            "custom/spectre/hurt/hurt7"
+        ]
+    },
+
+    "event3.sound": {
+        "sounds": [
+            "custom/event_3/son_event_3"
+        ]
+    }
+}
