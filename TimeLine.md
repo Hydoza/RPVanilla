@@ -8,7 +8,7 @@ Le premier bâtiment fut donc le bureau de vote. Le premier maire voté fut Hydo
 Puis chaque habitant construisirent leur maisons et commençaient a développer l'économie de la ville qui est l'euro [€] (trop original...) et vécurent heureux et n'eurent aucun problème. 
 Uhhh...
 
-**2) Le monde surexcite.**
+**2) Un monde rebellé.**
 
 Un jour d'élection normal comme tout les 100 jours, les citoyens fessais un vote tout ce qui avait de plus normal, quand un petit séisme commença. Les citoyens témoignent que les monstres de la nuit été un peut plus puissant qu'auparavent.
 [Passage du mode Normal au mode Hard]
