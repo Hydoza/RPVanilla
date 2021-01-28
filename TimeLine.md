@@ -10,5 +10,5 @@ Uhhh...
 
 **2) Le monde surexcite.**
 
-Un jour d'élection normal comme tout les 100 jours, les citoyens fessais un vote tout ce qui avait de plus normal, quand un petit séisme commença. Les citoyens témoignent que les monstres de la nuit été un peut plus puissant qu'au paravent.
+Un jour d'élection normal comme tout les 100 jours, les citoyens fessais un vote tout ce qui avait de plus normal, quand un petit séisme commença. Les citoyens témoignent que les monstres de la nuit été un peut plus puissant qu'auparavent.
 [Passage du mode Normal au mode Hard]
